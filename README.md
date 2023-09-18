@@ -2,14 +2,15 @@
 ## SPI Flasher for the Teensy 4.0
 
 
-### Setup
+### DEV Setup
 To build source currently only Linux has been tested, you can use WSL/2 if you are one Windows though.
 - ```sudo apt install gcc-arm-none-eabi```
 - ```cd ./SPINNER```
 - ```make```
 - Use the TeensyLoader to program the HEX file in ```./Release``` to your Teensy 4.0  
 
-
+### HW Setup
+![alt text](./SPINNER_teensy4_wiring.png)
 
 ### How to use
 - ```python ./spinner.py COM4 info```

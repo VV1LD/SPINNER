@@ -24,8 +24,8 @@ To build source currently only Linux has been tested, you can use WSL/2 if you a
 
 
 ### Special Thanks!
-Judges
-Zecoxao
+- Judges
+- Zecoxao
 
 
 

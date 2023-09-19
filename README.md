@@ -18,9 +18,9 @@ To build source currently only Linux has been tested, you can use WSL/2 if you a
 - ```python ./spinner.py COM4 vwrite ./flash.bin```
 
 
-  *Python 2.7 is no supported :-)*
+  *Python 2.7 is no longer supported :-)*
   
-  *Python 3.8 was tested*
+  *Python 3.8 was used/tested, but any python3 version should work*
 
 
 

@@ -7,7 +7,7 @@ To build source currently only Linux has been tested, you can use WSL/2 if you a
 - ```sudo apt install gcc-arm-none-eabi```
 - ```cd ./SPINNER```
 - ```make```
-- Use the TeensyLoader to program the HEX file in ```./Release``` to your Teensy 4.0  
+- Use the [TeensyLoader](https://www.pjrc.com/teensy/loader.html) to program the HEX file in ```./Release``` to your Teensy 4.0  
 
 ### HW Setup
 ![alt text](./SPINNER_teensy4_wiring.png)
@@ -31,7 +31,7 @@ To build source currently only Linux has been tested, you can use WSL/2 if you a
 
 
 ### TODO
-- Support more Flash chips
+- Support more flash chips
 - Add test command to check signal integrity
 - Cleaner data transfer methods
 - Reliability (error handling)
